@@ -53,22 +53,23 @@
 	> 图片： img标签 src属性表示图像资源 alt属性准备图片未被加载出来时的内容
 	
 	> 表格标签
-	> 	<table>
-	> 		<caption></caption>
-	> 		<tr>
-	> 			<th></th>
-	> 			<th></th>
-	> 		</tr>
-	> 		<tr>
-	> 			<td></td>
-	> 			<td></td>
-	> 		</tr>
-	> 		<tr>
-	> 			<td></td>
-	> 			<td></td>
-	> 		</tr>
-> 	</table>
-	
+	```
+	 	<table>
+	 		<caption></caption>
+	 		<tr>
+	 			<th></th>
+	 			<th></th>
+	 		</tr>
+	 		<tr>
+	 			<td></td>
+	 			<td></td>
+	 		</tr>
+	 		<tr>
+	 			<td></td>
+	 			<td></td>
+	 		</tr>
+ 		</table>
+	```	
 		table标签定义表格
 		caption标签定义表格标题
 		th标签定义表头
