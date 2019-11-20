@@ -76,8 +76,8 @@
 		tr定义行
 	td定义单元
 		
-		thead tbody tfoot分别定义表头 表体 表底
-		还可以通过colspan 进行跨列  rowspan进行跨行
+	thead tbody tfoot分别定义表头 表体 表底
+	还可以通过colspan 进行跨列  rowspan进行跨行
 	
 	> 列表元素
 	> 	ul li
